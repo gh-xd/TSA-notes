@@ -27,3 +27,6 @@
 
 ## Reference
 [Python中的经典时间序列预测模型总结](https://mp.weixin.qq.com/s/uhaTHGlfGZCTnWfWEa4tBQ)
+
+## To read
+[时间序列预测方法总结](https://zhuanlan.zhihu.com/p/67832773)
